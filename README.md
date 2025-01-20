@@ -22,4 +22,4 @@ The response variable labeled "Result" refers to the classification of players w
 - 0 - First Player Lost the Match
 - 1 - First Player Won the Match
 
-You can check out the project in this [link](https://github.com/Dcroix/TennisML/blob/main/Machine-Learning-on-Women-Tennis-Dataset.ipynb.ipynb)
+You can check out the project in this [link](https://github.com/Dcroix/TennisML/blob/main/Machine-Learning-on-Women-Tennis-Dataset.ipynb)
